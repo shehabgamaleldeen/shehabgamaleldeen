@@ -1,4 +1,4 @@
-## Hi there 👋# 💫 About Me:
+## Hi there 👋 💫 About Me:
 Full-Stack Web Developer with practical experience building and deploying responsive web applications using<br>React.js, TypeScript, and Node.js. Currently completing the intensive 420+ hour Open-Source Applications<br>Developer Program at NTI with demonstrated expertise in RESTful API integration, Redux state management, and<br>modern UI development. Skilled in Agile collaboration, delivering maintainable code, and implementing scalable<br>architectures with strong emphasis on performance optimization and user experience.
 
 
